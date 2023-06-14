@@ -1,17 +1,29 @@
 ### Hi there 👋
 
-### This is Weizhe Wang (Tommy)
-<!--
-**tommywwz/tommywwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This is Weizhe Wang (Tommy)!
 
-Here are some ideas to get you started:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/tommywwz)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weizhe-wang-3b33191ba/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wangweizhe2001@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub page! 
+
+I'm Weizhe Wang, currently pursuing a Master's Degree in Electrical Engineering at the University of Southern California. I also hold a Bachelor's Degree in Electrical and Computer Engineering from Worcester Polytechnic Institute.
+
+#### 🔭 I’m currently working on
+- 🎓 Finishing my Master's Degree
+- 🦀 Diving into the world of Rust and in the process of reconstructing my MQP Project using this language
+
+#### 📖 Fields that I'm learning on
+- Embedded Software Development
+- RTL Development
+- Computer Architecture
+
+#### 🤩 Topics I'm interested in 
+- VR
+- IOT 
+- Machine Learning
+
+
+
+
