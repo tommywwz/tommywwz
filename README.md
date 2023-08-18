@@ -8,7 +8,7 @@
 
 Welcome to my GitHub page! 
 
-I'm Weizhe Wang, currently pursuing a Master's Degree in Electrical Engineering at the University of Southern California. I also hold a Bachelor's Degree in Electrical and Computer Engineering from Worcester Polytechnic Institute.
+I'm Weizhe Wang, currently pursuing a Master's Degree in Electrical and Computer Engineering at the University of Southern California. I also hold a Bachelor's Degree in Electrical and Computer Engineering from Worcester Polytechnic Institute.
 
 #### 🔭 I’m currently working on
 - 🎓 Finishing my Master's Degree
