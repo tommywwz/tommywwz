@@ -6,6 +6,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/weizhe-wang-3b33191ba/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wangweizhe2001@gmail.com)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=tommywwz&theme=github-dark&border_radius=10&mode=weekly&card_width=450&hide_current_streak=true)](https://git.io/streak-stats)
+
 Welcome to my GitHub page! 
 
 I'm Weizhe Wang, currently pursuing a Master's Degree in Electrical and Computer Engineering at the University of Southern California. I also hold a Bachelor's Degree in Electrical and Computer Engineering from Worcester Polytechnic Institute.
