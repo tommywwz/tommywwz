@@ -24,6 +24,8 @@ I'm Weizhe Wang, currently pursuing a Master's Degree in Electrical and Computer
 
 #### 🤩 Topics I'm interested in 
 - VR
+- Cars
+- Robots
 - IOT 
 - Machine Learning
 
