@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wangweizhe2001@gmail.com)
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=tommywwz&theme=github-dark&border_radius=6&mode=weekly&card_width=450&border=CCC9C9&stroke=CCC9C9&dates=5CEBAC&sideNums=57A6FF&hide_current_streak=true)](https://git.io/streak-stats) -->
-<a href="https://github.com/tommywwz/github-readme-streak-stats">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=tommywwz&theme=github-dark&border_radius=6&mode=weekly&card_width=450&border=CCC9C9&stroke=CCC9C9&dates=5CEBAC&sideNums=57A6FF" alt="GitHub Streak" />
 </a>
 
