@@ -15,12 +15,6 @@
 
 Welcome to my GitHub page! 
 
-I'm Weizhe Wang, currently pursuing a Master's Degree in Electrical and Computer Engineering at the University of Southern California. I also hold a Bachelor's Degree in Electrical and Computer Engineering from Worcester Polytechnic Institute.
-
-#### 🔭 I’m currently working on
-- 🎓 Pursuing my Master's Degree
-- 🦀 Diving into the world of Rust and in the process of reconstructing my MQP Project using this language
-
 #### 📖 Fields that I'm learning on
 - Embedded Software Development
 - RTL Development
